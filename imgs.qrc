@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/gameimgs">
+        <file>defeated.png</file>
+        <file>enemy.png</file>
+        <file>health.png</file>
+        <file>mariopro.png</file>
+        <file>penemy.png</file>
+        <file>worldmap.png</file>
+        <file>worldmap20x20.png</file>
+    </qresource>
+</RCC>
